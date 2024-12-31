@@ -1,5 +1,5 @@
 ---
-title: "[CS]001 - Introduction of Computer Science"
+title: "[CS001] Introduction of Computer Science"
 layout: archive
 permalink: /CS001
 ---
