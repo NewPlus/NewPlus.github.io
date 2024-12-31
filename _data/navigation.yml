@@ -20,6 +20,7 @@ main:
   #  url: /tags/
 
 sidebar-category:
+    - title: "Category"
     - title: "[CS] Computer Science"
       childern:
       - title: "[CS001] Introduction of Computer Science"
