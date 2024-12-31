@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Yonghwan Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/avatar.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "日日新又日新"
   location         : "Republic of Korea, Seoul"
   email            :
