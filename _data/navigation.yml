@@ -18,3 +18,19 @@ main:
     url: "/categories/"
   - title: "Tags"
     url: /tags/
+
+sidebar-category:
+  - title: "Category"
+    children:
+      - title: "[CS]001 - Introduction of Computer Science"
+        url: "/CS001"
+      - title: "[PL]002 - The Programming Language"
+        url:  "/PL002"
+      - title: "[MT]003 - Basic Mathematics"
+        url:  "/MT003"
+      - title: "[AI]004 - NLP Research"
+        url:  "/AI004"
+      - title: "[TR]005 - YH's Travel"
+        url:  "/TR005"
+      - title: "[HS]006 - History Section"
+        url:  "/HS006"
