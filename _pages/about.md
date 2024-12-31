@@ -40,6 +40,31 @@ toc_label: "MYSELF"
     - Hallucination
 - Jeonju, Republic of Korea
 
+## Short-term AI Research Program in UNLV
+- 2023.06 - 2023.07
+- [University of Nevada, Las Vegas](https://www.unlv.edu/)
+    - [Supervisor: Prof. Mingon Kang](https://www.unlv.edu/people/mingon-kang)
+- Survival Analysis
+    - Suggested a new **Feature Selection method** to improve the analysis of **gene analysis** using **rank decomposition matrices**.
+    - Inspired by [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+- Las Vegas, Nevada, United States
+
+## Industry-academic cooperation - Ahnlab
+- 2024.03 - 2024.06
+- [Ahnlab](https://www.ahnlab.com/)
+- Capstone Design Project
+    - Proposed a new method to reduce the risk of **AI system** using **LLM w/o training**.
+    - AI/Web Part
+- Jeonju & Seongnam, Republic of Korea
+
+## Internship - Kiwon Tech
+- 2024.08 - 2024.10
+- [Kiwon Tech](https://www.kiwontech.com/)
+- Planning for commercialization of e-mail security international standard solutions using AI
+    - IT strategy/IT planning Team
+    - Proposed Subsequent Standard for [ITU-T X.1236](https://static.vncdn.vn/vnetwork.vn/pub/websites/uploads/1/30/The_Global%20Standard_of_Email_Security.pdf)
+- Seoul, Republic of Korea
+
 # Paper
 
 ## Domestic
