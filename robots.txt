@@ -1,4 +1,4 @@
-User-agent 
-Allow 
+User-agent: *
+Allow: /
 
-Sitemap httpseona1301.github.iositemap.xml
+Sitemap: https://newplus.github.io/sitemap.xml
