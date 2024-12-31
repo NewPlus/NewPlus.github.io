@@ -20,13 +20,10 @@ main:
   #  url: /tags/
 
 sidebar-category:
-    - title: "Category"
     - title: "[CS] Computer Science"
-      childern:
+      children:
       - title: "[CS001] Introduction of Computer Science"
         url: "/CS001"
-      - title: "[CS002] Introduction of Computer Science"
-        url:  "/CS002"
     - title: "[PL] Programming Language"
       children:
       - title: "[PL001] The Programming Language"
