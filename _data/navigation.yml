@@ -14,8 +14,8 @@ main:
     url: "/"
   - title: "About"
     url: https://newplus.github.io/about/
-  - title: "Category"
-    url: "/categories/"
+  #- title: "Category"
+  #  url: "/categories/"
   #- title: "Tags"
   #  url: /tags/
 
