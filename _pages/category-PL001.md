@@ -1,7 +1,9 @@
 ---
 title: "[PL001] The Programming Language"
 layout: archive
-permalink: /pl001
+permalink: categories/pl001
+author_profile: true
+sidebar_main: true
 ---
 
 
