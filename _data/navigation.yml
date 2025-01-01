@@ -23,24 +23,24 @@ sidebar-category:
     - title: "[CS] Computer Science"
       children:
       - title: "[CS001] Introduction of Computer Science"
-        url: "/cs001"
+        url: "/categories/cs001"
     - title: "[PL] Programming Language"
       children:
       - title: "[PL001] The Programming Language"
-        url:  "/pl001"
+        url:  "/categories/pl001"
     - title: "[MT] - Mathematics"
       children:
       - title: "[MT001] Basic Mathematics"
-        url:  "/mt001"
+        url:  "/categories/mt001"
     - title: "[AI] Artificial intelligence"
       children:
       - title: "[AI001] NLP Research"
-        url:  "/ai001"
+        url:  "/categories/ai001"
     - title: "[TR] Travel"
       children:
       - title: "[TR001] YH's Travel"
-        url:  "/tr001"
+        url:  "/categories/tr001"
     - title: "[HS] History Section"
       children:
       - title: "[HS001] History Section"
-        url:  "/hs001"
+        url:  "/categories/hs001"
