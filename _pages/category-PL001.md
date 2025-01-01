@@ -1,7 +1,7 @@
 ---
 title: "[PL001] The Programming Language"
 layout: archive
-permalink: /PL001
+permalink: /pl001
 ---
 
 
