@@ -12,10 +12,10 @@ main:
   #   url: /sitemap/
   - title: "Home"
     url: "/"
-  - title: "Introduce"
+  - title: "About"
     url: https://newplus.github.io/about/
-  #- title: "Category"
-  #  url: "/categories/"
+  - title: "Category"
+    url: "/categories/"
   #- title: "Tags"
   #  url: /tags/
 
