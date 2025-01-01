@@ -3,12 +3,12 @@ permalink: /about/
 title: "About"
 toc: true
 toc_sticky: true
-toc_label: "MYSELF"
+toc_label: "Yonghwan Lee"
 ---
 
-# Yonghwan Lee
 
-## Summary
+# Summary
+- Yonghwan Lee(이용환, 李庸煥)
 - Republic of Korea
 - 1999.03.26
 - B.S. in [Jeonbuk National University](https://www.jbnu.ac.kr/kor/index.do)
