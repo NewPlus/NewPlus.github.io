@@ -11,7 +11,7 @@ toc_label: "Yonghwan Lee"
 - Yonghwan Lee(이용환, 李庸煥)
 - Republic of Korea
 - 1999.03.26
-- B.S. in [Jeonbuk National University](https://www.jbnu.ac.kr/kor/index.do)
+- B.S.(Summa Cum Laude) in [Jeonbuk National University](https://www.jbnu.ac.kr/kor/index.do)
     - [Department of Computer Science & Artificial Intelligence](https://csai.jbnu.ac.kr/csai/index.do)
 
 # Education
@@ -25,10 +25,15 @@ toc_label: "Yonghwan Lee"
     - B.S. in [Department of Computer Science & Artificial Intelligence](https://csai.jbnu.ac.kr/csai/index.do)
     - Jeonju, Republic of Korea
     - 2019.03 - 2025.02
-    - GPA: 4.17 / 4.5
+    - GPA: 4.16 / 4.5 (Graduated with **Summa Cum Laude**)
 
 # Career
-- 
+- 2025.02 - Present
+    - [Ahnlab](https://www.ahnlab.com/)
+    - AI Assistant Engineer(Researcher)
+        - AI Development Department, AI Model Development Team
+        - Natural Language Processing
+    - Seongnam, Republic of Korea
 
 # Experience
 ## Undergraduate Research Program

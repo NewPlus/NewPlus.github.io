@@ -32,10 +32,14 @@ sidebar-category:
       children:
       - title: "[MT001] Basic Mathematics"
         url:  "/categories/mt001"
+      - title: "[MT002] Linear Algebra"
+        url:  "/categories/mt002"
     - title: "[AI] Artificial intelligence"
       children:
       - title: "[AI001] NLP Research"
         url:  "/categories/ai001"
+      - title: "[AI002] AI Research PaperReview"
+        url:  "/categories/ai002"
     - title: "[TR] Travel"
       children:
       - title: "[TR001] YH's Travel"
