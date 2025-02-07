@@ -116,7 +116,7 @@ author:
   name             : "Yonghwan Lee"
   avatar           : "/assets/avatar.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "日日新又日新"
-  location         : "Republic of Korea, Seoul"
+  location         : "Seoul, Republic of Korea"
   email            :
   links:
     - label: "Email"
@@ -134,9 +134,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NewPlus"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yonghwan-lee-458544261"
 
 # Site Footer
 footer:
@@ -156,9 +156,9 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yonghwan-lee-458544261"
 
 
 # Reading Files
