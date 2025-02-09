@@ -22,7 +22,7 @@ main:
 sidebar-category:
     - title: "[CS] Computer Science"
       children:
-      - title: "[CS001] Introduction of Computer Science"
+      - title: "[CS001] Operating System"
         url: "/categories/cs001"
     - title: "[PL] Programming Language"
       children:
