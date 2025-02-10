@@ -30,7 +30,7 @@ sidebar-category:
         url:  "/categories/pl001"
     - title: "[MT] - Mathematics"
       children:
-      - title: "[MT001] Basic Mathematics"
+      - title: "[MT001] Calculus"
         url:  "/categories/mt001"
       - title: "[MT002] Linear Algebra"
         url:  "/categories/mt002"
